@@ -1,0 +1,8 @@
+a=int(input())
+b=int(input())
+product=a*b
+div=a//b
+module=a%b
+print(product)
+print(div)
+print(module)
